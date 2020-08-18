@@ -1,4 +1,4 @@
-LinkPreview [![Build Status](https://secure.travis-ci.org/kasp3r/link-preview.png)](http://travis-ci.org/kasp3r/link-preview)
+LinkPreview [![Build Status](https://secure.travis-ci.org/cloudvisionbulgaria/link-preview.png)](http://travis-ci.org/cloudvisionbulgaria/link-preview)
 ===========
 
 A PHP library to easily get website information (title, description, image...) from given url.
@@ -17,7 +17,7 @@ To install LinkPreview with composer you need to create `composer.json` in your 
 ```json
 {
     "require": {
-        "kasp3r/link-preview": "dev-master"
+        "cloudvisionbulgaria/link-preview": "dev-master"
     }
 }
 ```
@@ -29,7 +29,7 @@ $ wget -nc http://getcomposer.org/composer.phar
 $ php composer.phar install
 ```
 
-Library will be installed in vendor/kasp3r/link-preview
+Library will be installed in vendor/cloudvisionbulgaria/link-preview
 
 In your project include composer autoload file from vendor/autoload.php
 
