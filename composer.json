@@ -1,5 +1,5 @@
 {
-    "name": "kasp3r/link-preview",
+    "name": "cloudvisionbulgaria/link-preview",
     "type": "library",
     "description": "Link preview library for PHP",
     "keywords": ["php","url","scraping"],
@@ -10,6 +10,11 @@
             "name": "Tadas Juozapaitis",
             "email": "kasp3rito@gmail.com",
             "homepage": "http://jugbit.com"
+        },
+        {
+            "name": "Bozhidar Slaveykov",
+            "email": "bobi@cloudvision.bg",
+            "homepage": "https://cloudvision.bg"
         }
     ],
     "require": {
